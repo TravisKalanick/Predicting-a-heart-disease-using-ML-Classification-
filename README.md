@@ -1,3 +1,4 @@
+![image alt](https://github.com/TravisKalanick/Predicting-a-heart-disease-using-ML-Classification-/blob/main/Screenshot%202025-04-25%20143258.png?raw=true)
 Heart Disease Prediction Model
 Overview
 This project utilizes machine learning to predict the likelihood of a person having heart disease based on clinical data. The model is built using a Random Forest Classifier, achieving an accuracy of 98-99% when tested on real-world data, providing high confidence in its predictions.
